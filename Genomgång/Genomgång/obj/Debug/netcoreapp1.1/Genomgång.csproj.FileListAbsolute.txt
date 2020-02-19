@@ -1,0 +1,9 @@
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\bin\Debug\netcoreapp1.1\Genomgång.deps.json
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\bin\Debug\netcoreapp1.1\Genomgång.runtimeconfig.json
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\bin\Debug\netcoreapp1.1\Genomgång.runtimeconfig.dev.json
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\bin\Debug\netcoreapp1.1\Genomgång.dll
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\bin\Debug\netcoreapp1.1\Genomgång.pdb
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\obj\Debug\netcoreapp1.1\Genomgång.csprojResolveAssemblyReference.cache
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\obj\Debug\netcoreapp1.1\Genomgång.AssemblyInfo.cs
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\obj\Debug\netcoreapp1.1\Genomgång.dll
+c:\users\elev\documents\visual studio 2017\Projects\Genomgång\Genomgång\obj\Debug\netcoreapp1.1\Genomgång.pdb
